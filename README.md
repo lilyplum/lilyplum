@@ -1,8 +1,9 @@
-# :cherry_blossom: Hey there :rainbow:
+# 🌸 Hey there 🏳️‍🌈
 
 Nice to meet you!   
-I am a Junior Full Stack Dev and here u can find the projects I have been working on :computer:  
-You can also find me on [LinkedIn](https://www.linkedin.com/in/lilyplum/) if you wish to connect
+I am a Junior Full Stack Dev and here u can find the projects I have been working on 💻  
+You can also find me on [LinkedIn](https://www.linkedin.com/in/lilyplum/) if you wish to connect.
+In the future I will also have my website linked.
 
 ## My Skills[^1]
 [![My Skills](https://skillicons.dev/icons?i=vite,react,js,html,css)](https://skillicons.dev)  
