@@ -18,4 +18,4 @@ I am a Junior Full Stack Dev and here u can find the projects I have been workin
 [![My Skills](https://skillicons.dev/icons?i=angular,godot,python,kotlin,gradle)](https://skillicons.dev)  
 
 
-[^1]:I am far from an expert in those technologies and I am always trying to improve 
+[^1]:Far from an expert but always trying to improve and learn 
