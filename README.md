@@ -1,7 +1,8 @@
 # 🌸 Hey there 🏳️‍🌈
 
 Nice to meet you!   
-I am a Junior Full Stack Dev and here u can find the projects I have been working on 💻 (WIP because of new github profile)
+I am a Junior Full Stack Dev and here u can find the projects I have been working on 💻  
+**Profile is WIP because I created a new github profile**
 
 ## Contact
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lilyplum/)
